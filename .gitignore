@@ -1,0 +1,19 @@
+# Ambientes Virtuais
+venv/
+.venv/
+
+# Arquivos de Python
+*.pyc
+__pycache__/
+
+# Arquivos do Streamlit
+.streamlit/
+app.py.lock
+.env
+
+# Arquivos de IDE (se estiver usando)
+.vscode/
+.idea/
+
+# Arquivos do Sistema Operacional
+.DS_Store
